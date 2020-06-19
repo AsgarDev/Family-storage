@@ -1,5 +1,4 @@
 <?php
-require_once '../inc/functions.php';
 
 function getChildrenData() {
     require '../inc/children.php';
